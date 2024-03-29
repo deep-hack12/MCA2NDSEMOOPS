@@ -1,4 +1,3 @@
-package MCA2NDSEMOOPS.shivani;
 class Student {
     String name;
     String rollNumber;

@@ -1,4 +1,4 @@
-package MCA2NDSEMOOPS.shivani;
+
 class Bird {
 
 	Bird(String s) {

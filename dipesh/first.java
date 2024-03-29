@@ -1,6 +1,3 @@
-package MCA2NDSEMOOPS.shivani;
-
-
  class first1 {
 //method overloading and constructor overloading
 	// method overloading
